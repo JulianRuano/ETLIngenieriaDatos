@@ -1,0 +1,13 @@
+{
+    "name": "AzurePostgreSQLAmes",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzurePostgreSql",
+        "version": "1.0",
+        "typeProperties": {
+            "connectionString": "",
+            "encryptedCredential": ""
+        }
+    }
+}

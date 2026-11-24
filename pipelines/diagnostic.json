@@ -1,0 +1,24 @@
+{
+    "now": "2026-11-24T01:52:36.458Z",
+    "perfNow": 7884939.399999999,
+    "diagnosticCorrelation": "82c35d76-4d04-43b3-b549-8f4e7a17f310",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.110526.11",
+        "environmentType": 3,
+        "resourceName": "practicaETL1JulianRuano",
+        "resourceRegion": "northcentralus",
+        "resourceGroup": "northcentra",
+        "subscriptionId": "0013e07f-9f48-44de-9799-e48533836002",
+        "sessionId": "0x3RIbYttsksvfmJFs/krA",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "4f3e2102-9736-4799-a5d6-a04d498708f0"
+    },
+    "additionalInfo": {
+        "selectedResource": "pipeline1",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "60d144fc-676e-469f-89b4-e999ce321344"
+    }
+}

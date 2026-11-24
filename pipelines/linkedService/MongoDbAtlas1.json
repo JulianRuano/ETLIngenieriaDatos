@@ -1,0 +1,14 @@
+{
+    "name": "MongoDbAtlas1",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "MongoDbAtlas",
+        "typeProperties": {
+            "connectionString": "",
+            "database": "",
+            "driverVersion": "",
+            "encryptedCredential": ""
+        }
+    }
+}
